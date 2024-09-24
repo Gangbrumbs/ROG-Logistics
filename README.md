@@ -11,4 +11,4 @@ The Devs had a meeting to finish most of Phase 1, and they also almost finished 
 # Phase 1: 90%
 # Phase 2: 80%
 
-ana isme kimKadaishan
+
